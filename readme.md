@@ -23,7 +23,7 @@ Queremos agregar una nueva categoría de productos al sistema y para ello necesi
 
 Primero, una introducción a nuestro sistema:
 
-- Todos los productos tienen un SeelIn que denota el número de días que se tienen para vender el producto
+- Todos los productos tienen un SellIn que denota el número de días que se tienen para vender el producto
 - Todos los productos tienen un Quality que denota cuán valioso es el producto
 - Al final de cada día, nuestro sistema disminuye los ambos valores para cada producto
 
