@@ -30,7 +30,7 @@ Primero, una introducción a nuestro sistema:
 Bastante simple, ¿verdad? Bueno, acá se pone interesante:
 
 - Cuando la fecha de venta ha pasado, el Quality se degrada dos veces más rápido
-- El Quality de un producto nunca es negativa
+- El Quality de un producto nunca es negativo
 - Los productos "Pisco Peruano", en realidad, incrementan en Quality mientras más viejos están
 - El Quality de un producto nunca es mayor a 50
 - Los productos "Tumi", siendo un producto legendario, nunca debe ser vendido o bajaría su Quality
