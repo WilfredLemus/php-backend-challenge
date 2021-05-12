@@ -11,6 +11,8 @@ Tu tarea es:
 
 ## Flujo
 
+Debes tener instalado docker en tu computadora para usar nuestros comandos del flujo de trabajo
+
 - Usa el comando `./start` para inicializar el docker
 - Usa el comando `./test` para correr los tests
 - Usa el comando `./finish` para desactivar el docker
