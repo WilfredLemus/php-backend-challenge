@@ -50,3 +50,10 @@ Para dejarlo claro, un producto nunca puede incrementar su Quality mayor a 50, s
 - La eficiencia del código en cuestiones de rendimiento sumarán para esta prueba.
 - Será indispensable uso de principios S.O.L.I.D.
 - Al finalizar el reto, enviar el enlace de la solución a emmanuel.barturen@talently.tech con copia a cristian@talently.tech con título "Reto Talently 2021-05"
+
+# Preguntas de conocimiento en Laravel
+
+1. Qué paquete o estrategia utilizarías para levantar un sistema de administración rápidamente? (Autenticación y CRUDs)
+2. Una breve explicación de cómo laravel utiliza la injección de dependencias
+3. En qué casos utilizarías un Query Scope?
+4. Qué convenciones utilizas en la creación e implementación de migraciones?
