@@ -44,3 +44,10 @@ Recientemente hemos firmado un contrato con un proveedor de productos de "Café"
 
 Para dejarlo claro, un producto nunca puede incrementar su Quality mayor a 50, sin embargo "Tumi" es un producto legendario y como tal su Quality es 80 y nunca cambia.
 
+# Entregable o Expectativa del reto
+
+- La solución deberá estar en un fork de este repositorio.
+- La limpieza y legibilidad del código será considerada.
+- La eficiencia del código en cuestiones de rendimiento sumarán para esta prueba.
+- Será indispensable uso de principios S.O.L.I.D.
+- Al finalizar el reto, enviar el enlace de la solución a emmanuel.barturen@talently.tech con copia a cristian@talently.tech
