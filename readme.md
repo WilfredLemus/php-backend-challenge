@@ -54,6 +54,13 @@ Para dejarlo claro, un producto nunca puede incrementar su Quality mayor a 50, s
 # Preguntas de conocimiento en Laravel
 
 1. Qué paquete o estrategia utilizarías para levantar un sistema de administración rápidamente? (Autenticación y CRUDs)
+    R/ Utilizaria Infyom para realizarlo rapido.
+
 2. Una breve explicación de cómo laravel utiliza la injección de dependencias
+    R/ Lo realiza por medio del Service Container utilizando bind o singleton por medio del AppServiceProvider
+
 3. En qué casos utilizarías un Query Scope?
+    R/ Para crear un scope personalizado.
+
 4. Qué convenciones utilizas en la creación e implementación de migraciones?
+    R/ CamelCase
